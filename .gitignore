@@ -1,0 +1,5 @@
+TRiCAN.egg-info
+
+trican/__pycache__
+
+trican/version.py
